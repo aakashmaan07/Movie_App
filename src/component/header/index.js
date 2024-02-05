@@ -8,7 +8,7 @@ const Header = () =>{
     return(
         <div className="header-flex">
             <div className="header-logo">
-            <Link to="/">Cinema</Link>
+            <Link to="/">Movie-Hub</Link>
             </div>
             <div className="header-btns">
                 <Mode/>
